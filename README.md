@@ -43,7 +43,7 @@ hrello **bold**
 ## image 
 ![vich](image.png)
 
-![hello](image-1.png)
+![hello](dog.png)
 
 ### link
 css Framwork [[youtub]](https://www.youtube.com/)
@@ -69,7 +69,10 @@ composer install
 
 ## Button
 
-<a href="https://www.youtube.com/" target="_blank">youtube</a>
+<a href="ttps://www.youtube.com/" target="_blank">youtube</a>
 
 # Badge
  [![app](https://img.shields.io/badge/buton_youtube-more_youtube-pink)](https://www.youtube.com/)
+
+ ## Contributor
+ - [@vanna-023]
