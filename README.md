@@ -39,3 +39,29 @@ hrello **bold**
     1. sub 1
     3. sub 1
     3. sub 1
+
+## image 
+![vich](image.png)
+![vich](image-1.png)
+
+### link
+css Framwork [[youtub]](https://www.youtube.com/)
+
+
+## singlie line code
+`print("hello word")`
+
+## multiple line
+```python
+for i in range(10):
+    print(i)
+```
+```html
+<h1>Hello</h1>
+<p> text</p>
+```
+```bash
+npm i express
+pip install cv2
+composer install
+```
